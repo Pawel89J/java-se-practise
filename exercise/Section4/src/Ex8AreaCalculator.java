@@ -1,4 +1,4 @@
-public class AreaCalculator {
+public class Ex8AreaCalculator {
 
     public static double area (double radious) {
         return (radious <0) ? -1 : radious * radious * Math.PI;

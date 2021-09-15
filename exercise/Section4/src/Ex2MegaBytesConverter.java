@@ -1,4 +1,4 @@
-public class MegaBytesConverter {
+public class Ex2MegaBytesConverter {
 
     public static void printMegaBytesAndKiloBytes(int kiloBytes) {
         if (kiloBytes < 0) {

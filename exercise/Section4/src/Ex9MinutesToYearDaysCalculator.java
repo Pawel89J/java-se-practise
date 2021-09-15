@@ -1,4 +1,4 @@
-public class MinutesToYearDaysCalculator {
+public class Ex9MinutesToYearDaysCalculator {
 
     public static void printYearsAndDays(long minutes) {
         if (minutes < 0){

@@ -1,4 +1,4 @@
-public class DecimalComparator {
+public class Ex5DecimalComparator {
 
     public static boolean areEqualByThreeDecimalPlaces(double myFirstDouble, double mySecondDouble) {
         int myFirstCheck = (int)(myFirstDouble * 1000);

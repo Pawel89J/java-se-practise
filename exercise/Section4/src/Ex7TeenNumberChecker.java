@@ -1,4 +1,4 @@
-public class TeenNumberChecker {
+public class Ex7TeenNumberChecker {
 
     static public boolean hasTeen(int firstNumber, int secondNumber, int thirdNumber) {
         return isTeen(firstNumber) || isTeen(secondNumber) || isTeen(thirdNumber);

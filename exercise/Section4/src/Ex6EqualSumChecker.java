@@ -1,4 +1,4 @@
-public class EqualSumChecker {
+public class Ex6EqualSumChecker {
 
     public static boolean hasEqualSum(int firstNumber, int secondNumber, int thirdNumber) {
         if (firstNumber + secondNumber == thirdNumber) {

@@ -1,4 +1,4 @@
-public class SpeedConverter {
+public class Ex1SpeedConverter {
 
     public static long toMilesPerHour(double kilometersPerHour) {
         if (kilometersPerHour < 0) {

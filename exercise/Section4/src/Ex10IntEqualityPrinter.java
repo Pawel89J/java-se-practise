@@ -1,4 +1,4 @@
-public class IntEqualityPrinter {
+public class Ex10IntEqualityPrinter {
 
     public static void printEqual(int x, int y, int z) {
         if (x <0 || y <0 || z <0) {
