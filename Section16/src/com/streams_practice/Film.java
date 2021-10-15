@@ -11,12 +11,12 @@ public class Film {
     private final String genre;
     private final List<String> searchKeywords;
 
-    public Film(String title, int duration, double imdbRate, String genre) {
+    public Film(String title, int duration, double imdbRate, String genre, List<String> searchKeywords) {
         this.title = title;
         this.duration = duration;
         this.imdbRate = imdbRate;
         this.genre = genre;
-        searchKeywords = new ArrayList<>();
+        this.searchKeywords= searchKeywords;
     }
 
     public String getTitle() {
